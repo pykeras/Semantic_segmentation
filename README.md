@@ -1,5 +1,9 @@
 ### Image segmentation tutorial (semantic segmentaion)
 
+**This is a step-by-step guide to building and understanding semantic segmentation**
+
+- _we will discuss some preprocessing techniques specifically for medical images_
+
 _Link to the dataset can be found on [MoNuSeg official domain](https://monuseg.grand-challenge.org/Data/)_
 
 _To understand data and for more info checkout their paper :  
